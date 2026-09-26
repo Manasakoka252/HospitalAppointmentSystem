@@ -2,23 +2,6 @@
 
 A complete, beginner-friendly **Hospital Appointment Management System** built with Python, MySQL, `mysql-connector-python`, and Streamlit. This application allows multi-specialty hospitals to manage patient profiles, doctor records, department specialties, appointment scheduling with double-booking prevention, consultation billing, and management reports.
 
----
-
-## 📋 Table of Contents
-1. [Project Overview](#project-overview)
-2. [Objective](#objective)
-3. [Technologies Used](#technologies-used)
-4. [Project Folder Structure](#project-folder-structure)
-5. [Database Architecture & Design](#database-architecture--design)
-6. [Key Features & Modules](#key-features--modules)
-7. [Installation & Setup Guide](#installation--setup-guide)
-8. [Database Configuration](#database-configuration)
-9. [How to Run the Application](#how-to-run-the-application)
-10. [Application Workflow](#application-workflow)
-11. [Final Explanation & Viva / Interview Guide](#final-explanation--viva--interview-guide)
-
----
-
 ## 🌟 Project Overview
 The **Hospital Appointment System** simplifies hospital workflows by digitizing patient registrations, doctor allocations, slot scheduling, billing, and reports generation. Built with a modular Python backend and an intuitive Streamlit GUI, it replaces complex terminal interfaces with a clean interactive web dashboard.
 
